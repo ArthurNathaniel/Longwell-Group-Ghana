@@ -1,0 +1,322 @@
+ .swiper {
+     width: 100%;
+     height: 100%;
+ }
+
+ .swiper-slide {
+     text-align: center;
+     font-size: 18px;
+     background: #f2f4f6;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .swiper-slide img {
+     display: block;
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+ }
+
+ .hero-slide{
+    height: 550px;
+ }
+
+ .swiper-text {
+     position: absolute;
+     bottom: 40px;
+ }
+
+ .swiper-text h1 {
+     font-size: 45px;
+     font-family: 'Playfair Display', serif;
+     color: #fff;
+ }
+
+ .about-all {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     padding: 0 10%;
+     margin-top: 70px;
+ }
+
+ .about-image {
+     width: 90%;
+ }
+
+ .images-about img {
+     width: 100%;
+     margin-bottom: 0;
+ }
+
+ .about-box {
+     background-color: #cd2208;
+     padding-block: 30px;
+     margin-top: -10px;
+     text-align: center;
+     color: #fff;
+     font-size: 30px;
+     font-family: 'Playfair Display', serif;
+ }
+
+ .about-text {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+ }
+
+ .about-text h4 {
+     font-family: 'Playfair Display', serif;
+     font-size: 35px;
+     color: #cd2208;
+     margin-bottom: 25px;
+ }
+
+ .about-text p {
+     margin-bottom: 25px;
+ }
+
+ .about-btn button {
+     border: none;
+     background-color: #cd2208;
+     padding: 15px 45px;
+ }
+
+ .about-btn button a {
+     color: #fff;
+ }
+
+ .services-all {
+     margin-top: 70px;
+     padding: 0 10%;
+     background-color: #f2f4f6;
+     padding-block: 50px;
+ }
+
+ .services-head {
+     text-align: center;
+ }
+
+ .services-head h3 {
+     font-family: 'Playfair Display', serif;
+     font-size: 40px;
+     color: #cd2208;
+     margin-bottom: 20px;
+ }
+
+ .services-grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+ }
+
+ .services-box {
+     margin-top: 50px;
+     width: 95%;
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-block: 25px;
+     /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+     background-color: #fff;
+     text-align: center;
+ }
+
+ .icons {
+     width: 90px;
+     height: 90px;
+     background-color: #cd22085c;
+     margin: auto;
+     color: #cd2208;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     text-align: center;
+     margin-bottom: 10px;
+     border-radius: 50%;
+ }
+
+ .services-box h3 {
+     font-family: 'Playfair Display', serif;
+     font-size: 25px;
+     margin-bottom: 15px;
+     color: #cd2208;
+     text-align: center;
+ }
+
+ .services-box button {
+     margin-top: 15px;
+     border: none;
+     background-color: transparent;
+     text-align: center;
+     width: 100%;
+ }
+
+ .services-box button a {
+     color: #cd2208;
+     font-size: 17px;
+ }
+
+ .why-all {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     padding: 0 10%;
+     margin-top: 70px;
+ }
+
+ .why-text {
+     width: 95%;
+ }
+
+ .why-text h4 {
+     color: #cd2208;
+     font-family: 'Playfair Display', serif;
+     font-size: 40px;
+     margin-bottom: 15px;
+ }
+
+ .y-p{
+    margin-bottom: 25px;
+ }
+
+ .why-box {
+     display: flex;
+     align-items: center;
+     gap: 30px;
+     margin-bottom: 20px;
+     /* border: 1px solid; */
+     padding-block: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-right: 5%;
+    padding-left: 5%;
+ }
+
+ .why-icons{
+   
+    padding: 20px;
+    background-color: #cd22085c;
+    color: #cd2208;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+ }
+
+ .why-message h3{
+    color: #cd2208;
+        font-family: 'Playfair Display', serif;
+        margin-bottom: 10px;
+ }
+.why-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .why-images img{
+    width: 95%;
+ }
+
+ .contact {
+     margin-top: 70px;
+     background-color: #f2f2f2;
+     padding: 0 10%;
+     padding-block: 50px;
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+ }
+
+ .contact-form {
+     width: 95%;
+ }
+
+ .forms input {
+     width: 100%;
+     height: 50px;
+     margin-bottom: 25px;
+     padding-left: 5%;
+ }
+
+ .forms input:focus {
+     outline: none;
+ }
+
+ .forms textarea {
+     width: 100%;
+     height: 150px;
+     margin-bottom: 25px;
+     padding-left: 5%;
+     padding-top: 15px;
+ }
+
+ .forms textarea:focus {
+     outline: none;
+ }
+
+ .forms button {
+     padding: 15px 45px;
+     background-color: #cd2208;
+     color: #fff;
+     border: none;
+ }
+
+ .forms i {
+     color: #fff;
+     padding-left: 5px;
+ }
+
+ .map iframe {
+     height: 100%;
+     width: 100%;
+ }
+
+ .contact-title h1 {
+     font-size: 40px;
+     margin-bottom: 15px;
+            font-family: 'Playfair Display', serif;
+            color: #cd2208;
+ }
+
+ .contact-title p {
+     margin-bottom: 25px;
+
+ }
+.container{
+    padding: 0;
+    margin: 0;
+}
+ .products-all{
+    padding: 0 10%;
+    width: 100%;
+    margin-top: 70px;
+ }
+ .products-all-head h2{
+                font-family: 'Playfair Display', serif;
+                color: #cd2208;
+                font-size: 40px;
+                text-transform: uppercase;
+ }
+
+ .products-all-head{
+    margin-bottom: 20px;
+                    text-align: center;
+ }
+
+ .nav-tabs a {
+           text-align: center; 
+           margin: auto;       
+                
+                    color: #cd2208;
+ }
+
+.agri-head{
+                        font-family: 'Playfair Display', serif;
+
+                        text-align: center;
+ }
+
+ .mySwiper2{
+    margin-top: 50px;
+ }
+
+ .product-slide{
+    height: 350px;
+ }
