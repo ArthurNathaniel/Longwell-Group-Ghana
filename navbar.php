@@ -33,7 +33,7 @@
                     <a href="toilet_and_sanitary.php">Toilet and Sanitary Products</a>
                 </div>
             </div>
-            <a href="">Sustainability Initiatives</a>
+            <a href="sustainability_initiatives.php">Sustainability Initiatives</a>
             <a href="">Contact Us</a>
 
         </div>
