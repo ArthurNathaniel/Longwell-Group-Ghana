@@ -199,7 +199,7 @@ background-color: #cd2208;
 .ft-logo {
     height: 150px;
     width: 150px;
-    background-image: url(../images/logo.jpg);
+    background-image: url(../images/logo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -375,7 +375,7 @@ footer {
     }
 
     .dropdown-content a {
-        background-color: #003b73 !important;
+        background-color: #cd2208 !important;
         width: 80%;
         margin: auto;
         box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -420,7 +420,7 @@ footer {
 
     .bb a {
         background-color: #f2f2f2;
-        color: #003b73 !important;
+        color: #cd2208 !important;
         text-align: center;
         padding: 0;
         padding: 20px;
@@ -442,5 +442,8 @@ footer {
     .ft-box {
         margin-bottom: 50px;
 
+    }
+    .swiper-text h1{
+        font-size: 30px !important;
     }
 }

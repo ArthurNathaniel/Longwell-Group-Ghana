@@ -1,73 +1,93 @@
- .swiper {
-     width: 100%;
-     height: 100%;
- }
+@import url(https://db.onlinewebfonts.com/c/390289fedd068780e28c0f9f259c3782?family=ITC+Bauhaus+Medium);
 
- .swiper-slide {
-     text-align: center;
-     font-size: 18px;
-     background: #f2f4f6;
-     display: flex;
-     justify-content: center;
-     align-items: center;
- }
+@font-face {
+    font-family: "ITC Bauhaus Medium";
+    src: url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot");
+    src: url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.svg#ITC Bauhaus Medium")format("svg");
+}
 
- .swiper-slide img {
-     display: block;
-     width: 100%;
-     height: 100%;
-     object-fit: cover;
- }
+body {
+    font-family: "ITC Bauhaus Medium";
+}
 
- .hero-slide img {
-     height: 350px;
- }
-
- .swiper-text {
+.swiper {
     width: 100%;
-     position: absolute;
-     padding-left: 10%;
-     text-align: left;
- }
+    height: 100%;
+}
 
- .swiper-text h1 {
-     font-size: 45px;
-     font-family: 'Playfair Display', serif;
-     color: #f2f4f6;
- }
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #f2f4f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
- .our-story-all{
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero-slide img {
+    height: 350px;
+}
+
+.swiper-text {
+    width: 100%;
+    position: absolute;
+    padding-left: 10%;
+    text-align: left;
+}
+
+.swiper-text h1 {
+    font-size: 45px;
+    font-family: 'Playfair Display', serif;
+    color: #f2f4f6;
+}
+
+.our-story-all {
     padding: 0 10%;
     margin-top: 70px;
- }
-.our-story-title{
-        font-family: 'Playfair Display', serif;
+}
+
+.our-story-title {
+    font-family: 'Playfair Display', serif;
     width: 100%;
 }
- .our-story-title span {
-   color: #cd2208;
-            font-family: 'Playfair Display', serif;
- }
- .our-story-title sub{
+
+.our-story-title span {
+    color: #cd2208;
+    font-family: 'Playfair Display', serif;
+}
+
+.our-story-title sub {
     width: 150px;
     height: 5px;
     display: block;
     border-radius: 10px;
     background-color: #cd2208;
     margin-bottom: 25px;
- }
-.board-grid{
+}
+
+.board-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.board-card{
+.board-card {
     width: 95%;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     margin-top: 40px;
 }
 
-.board-image{
+.board-image {
     height: 350px;
     width: 100%;
     background-image: url(../images/profile.jpg);
@@ -75,23 +95,42 @@
     background-position: center;
     background-repeat: no-repeat;
 }
-.board-info{
+
+.board-info {
     padding: 0 5%;
     padding-block: 20px;
     text-align: center;
 }
-.board-info h2{
+
+.board-info h2 {
     margin-top: 0;
     font-family: 'Playfair Display', serif;
 }
-.board-info h4{
+
+.board-info h4 {
     color: #cd2208;
 }
-.contact{
-    
+
+.contact {
+
     display: flex;
     justify-content: space-between;
 }
-.contact a{
+
+.contact a {
     color: #000;
+}
+
+@media only screen and (max-width: 1110px) {
+    .board-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .board-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }

@@ -221,7 +221,7 @@
         </div>
     </section>
     <?php include 'products.php'; ?>
-    <?php include 'footer.php'; ?>   
+    <?php include 'footer.php'; ?>
     <script src="./js/products.js"></script>
     <script src="./js/hero.js"></script>
     <script src="./js/navbar.js"></script>

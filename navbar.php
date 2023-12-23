@@ -34,7 +34,7 @@
                 </div>
             </div>
             <a href="sustainability_initiatives.php">Sustainability Initiatives</a>
-            <a href="">Contact Us</a>
+            <a href="contact.php">Contact Us</a>
 
         </div>
 
