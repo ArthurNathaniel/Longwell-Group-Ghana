@@ -33,8 +33,7 @@
                 <h1> Our <span>Beauty and Cosmetic Products</span></h1>
                 <p><sub></sub></p>
                 <p>
-                    Indulge in the allure of self-care with Longwell Group's exquisite beauty and cosmetic products. Let the images in our swiper showcase the transformative and luxurious experiences that await, as we bring you the latest trends and timeless elegance in every carefully curated item.
-
+                    Longwell Group is on a mission to empower individuals to embrace their natural beauty and express their unique selves. Through our curated selection of beauty and cosmetic products, we strive to contribute to a world where everyone experiences confidence, beauty, and comfort in their own skin.
 
                 </p>
                 <br>

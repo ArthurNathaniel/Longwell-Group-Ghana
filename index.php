@@ -28,7 +28,7 @@
         <div class="about-all">
             <div class="about-image">
                 <div class="images-about">
-                    <img src="./images/hero_one.jpg" alt="">
+                    <img src="./images/abt.jpeg" alt="">
                     <div class="about-box">
                         8+ Years Experience
                     </div>

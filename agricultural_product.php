@@ -34,8 +34,7 @@
                 <h1> Our <span>Agricultural Products</span></h1>
                 <p><sub></sub></p>
                 <p>
-                    Embark on a journey of agricultural excellence with Longwell Group. Explore our bountiful selection of top-tier agricultural products, each image showcasing the quality and dedication we bring to cultivating the land for a prosperous future.
-
+                    In the agricultural sector, our mission is to contribute to a sustainable and prosperous future. Longwell Group's comprehensive range of agricultural products, including fertilizers, weedicides, farm machines, and consultancy services, aims to enhance productivity, foster environmental sustainability, and facilitate knowledge-sharing within the farming community.
 
                 </p>
                 <br>

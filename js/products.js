@@ -4,7 +4,7 @@
    spaceBetween: 10,
    loop: true,
    autoplay: {
-     delay: 5500,
+     delay: 2000,
      disableOnInteraction: false,
    },
    pagination: {
