@@ -7,7 +7,7 @@
             <br>
 
             <p>
-                <span>Longwell Group </span>
+                <span>Longwell Group - Turning Vision into Value </span>
             </p>
             <div class="social-top">
                 <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>

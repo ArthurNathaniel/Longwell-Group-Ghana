@@ -19,6 +19,7 @@
                     <img src="./images/hero_one.jpg" alt="">
                     <div class="swiper-text">
                         <h1>Agricultural Products</h1>
+
                     </div>
                 </div>
 
@@ -32,6 +33,13 @@
             <div class="our-story-title">
                 <h1> Our <span>Agricultural Products</span></h1>
                 <p><sub></sub></p>
+                <p>
+                    Embark on a journey of agricultural excellence with Longwell Group. Explore our bountiful selection of top-tier agricultural products, each image showcasing the quality and dedication we bring to cultivating the land for a prosperous future.
+
+
+                </p>
+                <br>
+                <br>
             </div>
             <div class="swiper mySwiper2">
                 <div class="swiper-wrapper">

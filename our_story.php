@@ -58,8 +58,7 @@
             </div>
             <div class="our-story">
                 <p>
-                    At Longwell Group, our mission is to be a driving force in enhancing the quality of life through the provision of exceptional products and services. We strive to contribute to the well-being of communities by delivering goods that meet the highest standards of quality, safety, and sustainability.
-                </p>
+                    At Longwell Group, we are driven by a mission to lead with excellence, foster innovation, and embody unwavering commitment to positive impact across diverse industries. Guided by our core values of integrity, sustainability, and social responsibility, we are dedicated to shaping a future where our products and services elevate the well-being of individuals, communities, and the environment. </p>
             </div>
         </div>
     </section>

@@ -323,7 +323,7 @@ footer {
         left: 0;
         background-color: #cd2208;
         color: #f4f6f8;
-        padding-bottom: 30px;
+        /* padding-bottom: 30px; */
     }
 
     .nav-links {
@@ -336,7 +336,7 @@ footer {
         width: 100%;
         text-align: center;
         color: #f4f6f8;
-        border-bottom: 2px solid;
+        border-bottom: 1px solid;
     }
 
     .dropdown-content {

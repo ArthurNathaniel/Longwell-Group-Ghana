@@ -32,6 +32,13 @@
             <div class="our-story-title">
                 <h1> Our <span>Foods & Refreshment Products</span></h1>
                 <p><sub></sub></p>
+                <p>
+                    Satisfy your palate with Longwell Group's delectable Foods & Refreshment collection. Explore our swiper images capturing the essence of culinary delight and refreshing moments, as we bring you a diverse range of flavors and experiences to elevate your dining and beverage pleasures.
+
+
+                </p>
+                <br>
+                <br>
             </div>
             <div class="swiper mySwiper2">
                 <div class="swiper-wrapper">

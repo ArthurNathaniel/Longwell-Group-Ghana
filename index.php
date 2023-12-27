@@ -20,8 +20,6 @@
                         <h1>Welcome to Longwell Group Ghana</h1>
                     </div>
                 </div>
-
-
             </div>
             <div class="swiper-pagination"></div>
         </div>
@@ -53,7 +51,7 @@
                 </p>
                 <div class="about-btn">
                     <button>
-                        <a href="">Read more</a>
+                        <a href="our_story.php">Read more</a>
                     </button>
                 </div>
 

@@ -32,6 +32,13 @@
             <div class="our-story-title">
                 <h1> Our <span>Toiletry & Sanitary Products</span></h1>
                 <p><sub></sub></p>
+                <p>
+                    Elevate your personal care routine with Longwell Group's premium Toiletry & Sanitary Products. Swipe through our images to discover the epitome of hygiene and well-being, as we bring you a curated selection that combines functionality, comfort, and modern design for your everyday essentials.
+
+
+                </p>
+                <br>
+                <br>
             </div>
             <div class="swiper mySwiper2">
                 <div class="swiper-wrapper">
