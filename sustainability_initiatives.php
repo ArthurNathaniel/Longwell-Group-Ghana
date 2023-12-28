@@ -49,7 +49,7 @@
             </div>
         </div>
     </section>
-
+<!-- 
     <section>
         <div class="our-story-all">
             <div class="our-story-title">
@@ -63,34 +63,9 @@
                     environmental responsibility and reflect our dedication to creating a greener and healthier future.
                 </p>
             </div>
-            <div class="swiper mySwiper2">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                    <div class="swiper-slide product-slide">
-                        Certifications & Awards Image
-                    </div>
-                </div>
-                <div class="swiper-pagination"></div>
-            </div>
+           
         </div>
-    </section>
+    </section> -->
     <?php include 'footer.php'; ?>
     <script src="./js/products.js"></script>
     <script src="./js/hero.js"></script>
