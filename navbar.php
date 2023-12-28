@@ -3,9 +3,9 @@
         <a href="tel:+233596002220"><i class="fas fa-phone"></i>+233 59 6002 220</a>
     </div>
     <div class="social-media">
-        <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-        <a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-        <a href="" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+        <a href="https://web.facebook.com/profile.php?id=61554897847675" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://www.instagram.com/longwell_group_ghana/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://twitter.com/Longwell_group" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
 
     </div>
 </header>

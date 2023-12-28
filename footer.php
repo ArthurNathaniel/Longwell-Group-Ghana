@@ -10,9 +10,10 @@
                 <span>Longwell Group - Turning Vision into Value </span>
             </p>
             <div class="social-top">
-                <a href="" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-                <a href="" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                <a href="" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://web.facebook.com/profile.php?id=61554897847675" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://www.instagram.com/longwell_group_ghana/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://twitter.com/Longwell_group" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+
             </div>
         </div>
 
@@ -69,6 +70,6 @@
         <script>
             document.write(new Date().getFullYear())
         </script>
-        </span> | Longwell Group Ghana 
+        </span> | Longwell Group Ghana
     </p>
 </div>
